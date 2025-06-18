@@ -10,7 +10,6 @@ Welcome to the **Student Performance Analysis** project! 🎓 This project delve
 
 - Understand **key factors** that influence student performance.
 - Explore the dataset through **visualizations and correlations**.
-- Use **SQL** for efficient data querying and manipulation.
 - Perform **statistical tests** to draw meaningful inferences.
 - Create a **modular and well-documented project** structure for future scalability.
 
@@ -35,12 +34,11 @@ This structured and labeled dataset is ideal for both **exploratory** and **pred
 
 | Category       | Tools Used           |
 |----------------|----------------------|
-| Language       | Python, SQL          |
+| Language       | Python               |
 | Data Handling  | Pandas, NumPy        |
 | Visualization  | Matplotlib, Seaborn  |
 | Statistics     | SciPy, Statsmodels   |
 | Environment    | Jupyter Notebook     |
-| Database       | MySQL / PostgreSQL   |
 
 
 ---
