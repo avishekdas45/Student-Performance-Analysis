@@ -2,7 +2,7 @@
 📖This project explores and analyzes factors influencing student performance using data visualization and statistical insights.
 
 
-Welcome to the **Student Performance Analysis** project! 🎓 This project delves into the various **demographic and socio-economic factors** that affect student outcomes using a **data-driven approach**. By combining Python-based EDA, SQL queries, and statistical methods, the project aims to **reveal patterns** that could be crucial for educators, parents, and policymakers.
+Welcome to the **Student Performance Analysis** project! 🎓 This project delves into the various **demographic and socio-economic factors** that affect student outcomes using a **data-driven approach**. By combining Python-based EDA and statistical methods, the project aims to **reveal patterns** that could be crucial for educators, parents, and policymakers.
 
 ---
 
